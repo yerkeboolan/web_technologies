@@ -37,8 +37,9 @@ section {
 
 
 .owl-carousel {
-    width: 90% !important;
-    margin: 10% auto;
+    width: 100% !important;
+    //margin: 10% auto;
+    max-height: 50ch;
   }
    
   .owl-carousel .owl-nav {
@@ -51,7 +52,7 @@ section {
     position: absolute;
     width: 26px;
     cursor: pointer;
-    top: 30% !important;
+    top: 50% !important;
   }
    
   .owl-carousel .owl-prev.disabled,

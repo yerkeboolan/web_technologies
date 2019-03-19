@@ -20,8 +20,16 @@
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
     "@ng-bootstrap/ng-bootstrap": "^4.1.0",
+<<<<<<< HEAD
+=======
+    "bootstrap": "^4.3.1",
+>>>>>>> 01bb5172a72f411ba234de846a1464bf0b886e09
     "core-js": "^2.5.4",
+    "jquery": "^3.3.1",
+    "ngx-owl-carousel": "^2.0.7",
+    "ngx-slick-carousel": "^0.4.4",
     "rxjs": "~6.3.3",
+    "slick-carousel": "^1.8.1",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
   },

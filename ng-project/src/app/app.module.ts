@@ -14,6 +14,7 @@ import { CatalogComponent } from './catalog/catalog.component';
 import { ContactComponent } from './contact/contact.component';
 import { CommentComponent } from './comment/comment.component';
 import { FooterComponent } from './footer/footer.component';
+import { CarouselComponent } from './carousel/carousel.component';
 
 @NgModule({
   declarations: [
@@ -24,14 +25,15 @@ import { FooterComponent } from './footer/footer.component';
     CatalogComponent,
     ContactComponent,
     CommentComponent,
-    FooterComponent
+    FooterComponent,
+    CarouselComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     ReactiveFormsModule,
     SlickCarouselModule,
-    OwlModule
+    OwlModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

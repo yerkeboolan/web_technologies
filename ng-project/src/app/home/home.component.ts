@@ -1,11 +1,9 @@
 import { Component, OnInit } from '@angular/core';
-import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
-  selector: 'my-app',
+  selector: 'app-home',
   templateUrl: './home.component.html',
-  styleUrls: ['./home.component.scss'],
-          
+  styleUrls: ['./home.component.scss']
 })
 export class HomeComponent implements OnInit {
   title = 'OwlCarousel2 in Angular7 with Custom Navigation Arrows';

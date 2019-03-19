@@ -6,7 +6,6 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms';
   templateUrl: './contact.component.html',
   styleUrls: ['./contact.component.scss']
 })
-
 export class ContactComponent implements OnInit {
 
   messageForm: FormGroup;

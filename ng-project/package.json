@@ -20,10 +20,9 @@
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
     "@ng-bootstrap/ng-bootstrap": "^4.1.0",
-<<<<<<< HEAD
-=======
+
     "bootstrap": "^4.3.1",
->>>>>>> 01bb5172a72f411ba234de846a1464bf0b886e09
+
     "core-js": "^2.5.4",
     "jquery": "^3.3.1",
     "ngx-owl-carousel": "^2.0.7",

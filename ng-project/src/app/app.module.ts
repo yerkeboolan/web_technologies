@@ -15,6 +15,9 @@ import { ContactComponent } from './contact/contact.component';
 import { CommentComponent } from './comment/comment.component';
 import { FooterComponent } from './footer/footer.component';
 import { CarouselComponent } from './carousel/carousel.component';
+import { WinterComponent } from './winter/winter.component';
+import { SummerComponent } from './summer/summer.component';
+import { ArtComponent } from './art/art.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +29,10 @@ import { CarouselComponent } from './carousel/carousel.component';
     ContactComponent,
     CommentComponent,
     FooterComponent,
-    CarouselComponent
+    CarouselComponent,
+    WinterComponent,
+    SummerComponent,
+    ArtComponent
   ],
   imports: [
     BrowserModule,

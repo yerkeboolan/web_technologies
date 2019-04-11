@@ -1,43 +1,26 @@
+  
 <div class="container"> <div ng-app="">
         <div ng-show="true">
       
-            <h2 ng-show="true">Зимние виды спорта</h2>
+            <h2 ng-show="true" style="margin-left: 370px; color: blue">Зимние виды спорта</h2>
+      
+            <app-winter></app-winter>
+
+      
+        </div>
+        <div ng-show="true">
+      
+            <h2 ng-show="true" style="margin-left: 370px;color: brown">Летние виды спорта</h2>
+            
+            <app-summer></app-summer>
+      
+        </div>
+        <div ng-show="true">
+      
+            <h2 ng-show="true" style="margin-left: 420px;color: crimson">Искусство</h2>
         
-            <p ng-show="true"><span class="red">Фигурное катание</span> для детей и взрослых. Секция по <span class="green">хаккею</span> с общим тренером. Инструкторы для <span class="red">сноубординга</span> и для катания на <span class="green">лыжах</span>. </p>
             
-            <img height="300" width="620" src="./assets/fs.jpeg" alt="" />
-      
-        </div>
-        <div ng-show="true">
-      
-            <h2 ng-show="true">Летние виды спорта</h2>
-            <p ng-show="true">
-              Джиу-Джитсу для детей и взрослых.
-              Гимнастика и спортивные танцы.
-              Карате и Тхэквандои другие восточные виды единаборства.
-              Футбол с общим тренером.
-            </p>
-      
-            
-            <img height="300" width="620" src="./assets/dd.jpg" alt="" />
-      
-        </div>
-        <div ng-show="true">
-      
-            <h2 ng-show="true">Искусство</h2>
-            <p ng-show="true">
-               Пение индивидуальные и групповые занятия.
-          
-                Уроки  от реальных профессионалов.
-          
-                Лепка из глины.
-          
-                Уроки по  Музыкальным Инструментам
-                
-            </p>
-      
-            
-            <img height="300" width="620" src="./assets/lep.jpg" alt="" />
+            <app-art></app-art>
       
         </div>
         </div>

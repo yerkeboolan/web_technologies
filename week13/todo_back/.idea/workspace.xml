@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="168e67e8-e7be-4ff6-bb6f-25bead4b5c14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../FinalProject/project_back/app/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FinalProject/project_back/app/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FinalProject/project-front/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalProject/project-front/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FinalProject/project_back/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalProject/project_back/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FinalProject/project_back/app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalProject/project_back/app/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FinalProject/project_back/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalProject/project_back/app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FinalProject/project_back/app/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalProject/project_back/app/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FinalProject/project_back/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalProject/project_back/app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FinalProject/project_back/app/views/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalProject/project_back/app/views/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FinalProject/project_back/app/views/cbv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalProject/project_back/app/views/cbv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FinalProject/project_back/app/views/fbv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalProject/project_back/app/views/fbv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FinalProject/project_back/app/views/generic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalProject/project_back/app/views/generic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FinalProject/project_back/project_back/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalProject/project_back/project_back/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FinalProject/project_back/project_back/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalProject/project_back/project_back/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FinalProject/project_back/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalProject/project_back/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/.idea/lab11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/base/base.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/shared/models/models.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/shared/services/main.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/shared/services/main.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/shared/services/provider.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/shared/services/provider.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-detail/task-detail.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-detail/task-detail.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-detail/task-detail.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-detail/task-detail.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-list-detail/task-list-detail.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-list-detail/task-list-detail.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-list-detail/task-list-detail.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-list-detail/task-list-detail.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-list-tasks/task-list-tasks.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-list-tasks/task-list-tasks.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-list-tasks/task-list-tasks.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-list-tasks/task-list-tasks.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-lists/task-lists.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-lists/task-lists.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-lists/task-lists.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/app/task-lists/task-lists.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo-front/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/.idea/todo_back.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/api/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/api/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/api/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/api/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/api/migrations/0002_auto_20190415_0104.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/api/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/api/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/api/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/api/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/api/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/todo_back/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/todo_back/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/todo_back/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab11/todo_back/todo_back/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/.idea/lab11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/base/base.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/shared/models/models.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/shared/services/main.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/shared/services/main.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/shared/services/provider.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/shared/services/provider.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-detail/task-detail.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-detail/task-detail.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-detail/task-detail.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-detail/task-detail.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-list-detail/task-list-detail.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-list-detail/task-list-detail.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-list-detail/task-list-detail.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-list-detail/task-list-detail.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-list-tasks/task-list-tasks.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-list-tasks/task-list-tasks.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-list-tasks/task-list-tasks.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-list-tasks/task-list-tasks.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-lists/task-lists.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-lists/task-lists.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-lists/task-lists.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/app/task-lists/task-lists.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo-front/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/.idea/todo_back.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/api/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/api/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/api/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/api/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/api/migrations/0002_auto_20190415_0104.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/api/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/api/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/api/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/api/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/api/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/todo_back/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/todo_back/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/todo_back/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/todo_back/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week12/todo-front/src/app/task-list-detail/task-list-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../week12/todo-front/src/app/task-list-detail/task-list-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week12/todo-front/src/app/task-list-tasks/task-list-tasks.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../week12/todo-front/src/app/task-list-tasks/task-list-tasks.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week12/todo-front/src/app/task-lists/task-lists.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../week12/todo-front/src/app/task-lists/task-lists.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week12/todo_back/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week12/todo_back/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week12/todo_back/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../week12/todo_back/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week12/todo_back/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../week12/todo_back/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week12/todo_back/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../week12/todo_back/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week12/todo_back/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../week12/todo_back/db.sqlite3" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-61743038">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="258" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="258" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/auth_/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth_/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/auth_/serializers.py" />
+        <option value="$PROJECT_DIR$/auth_/urls.py" />
+        <option value="$PROJECT_DIR$/auth_/views.py" />
+        <option value="$PROJECT_DIR$/todo_back/settings.py" />
+        <option value="$PROJECT_DIR$/api/views/cbv.py" />
+        <option value="$PROJECT_DIR$/api/views/fbv.py" />
+        <option value="$PROJECT_DIR$/api/serializers.py" />
+        <option value="$PROJECT_DIR$/api/models.py" />
+        <option value="$PROJECT_DIR$/api/admin.py" />
+        <option value="$PROJECT_DIR$/todo_back/urls.py" />
+        <option value="$PROJECT_DIR$/api/views.py" />
+        <option value="$PROJECT_DIR$/api/urls.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="todo_back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo_back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todo_back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo_back" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todo_back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo_back" type="462c0819:PsiDirectoryNode" />
+              <item name="auth_" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todo_back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo_back" type="462c0819:PsiDirectoryNode" />
+              <item name="todo_back" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../FinalProject/project_back" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="168e67e8-e7be-4ff6-bb6f-25bead4b5c14" name="Default Changelist" comment="" />
+      <created>1557904676548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557904676548</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1050" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986821" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32921347" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views.py" />
+    <entry file="file://$PROJECT_DIR$/todo_back/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views/fbv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="79" column="58" selection-start-line="79" selection-start-column="58" selection-end-line="79" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views/cbv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo_back/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth_/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth_/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth_/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

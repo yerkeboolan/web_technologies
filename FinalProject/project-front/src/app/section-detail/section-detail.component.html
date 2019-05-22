@@ -1,0 +1,49 @@
+<app-base></app-base>
+<section class="portfolio" id="portfolio">
+        <div  class="container">
+          <h2 class="text-center text-uppercase text-secondary mb-0">{{section.name}}</h2>
+          <hr class="star-dark mb-5">
+          <p>{{section.description}}</p>
+          <hr class="star-dark mb-5">
+          <div>
+              <div class="row">
+            <div class="my-center">
+                
+              <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-1">
+                <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                  <div class="portfolio-item-caption2-content my-auto w-100 text-center text-white">
+                    <i class="fas fa-search-plus fa-3x"></i>
+                  </div>
+                </div>
+                
+                <img  width="300px" height="300px"  class=" img-thumbnail img-fluid rounded-circle" src="{{section.image}}" alt="">
+                
+              </a>
+              
+              
+            </div>
+            
+            </div>
+            <br>
+            <div class="grey"></div>
+            <h1 class="centered">our trainers</h1>
+            <br>
+            <div *ngFor="let trainer of trainers" class="container">
+                <div class="row">
+                <div class="col-4">
+                    <a routerLink="/trainer/{{trainer.id}}/">{{trainer.name}}</a> 
+                
+                    <p>{{trainer.description}}</p>
+                    <img width="300px" class = "img-thumbnail"  src="{{trainer.image}}">
+                </div>
+                </div>
+            </div>
+                <br>
+            <a routerLink="/section/{{section.id}}/comments">comments</a> 
+            
+            
+            
+          </div>
+          
+        </div>
+      </section>

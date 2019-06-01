@@ -1,0 +1,40 @@
+<app-base>
+  <ng-container body> 
+    <div class="container">
+      <div class="row">
+          <button type="button" class="btn btn-link btn-sm" (click)="navigateBack()">Go Back</button>
+          <span><h2>Product List:</h2></span>
+      </div>
+      <br>
+      <div>
+          <div class="form-group">
+              <label for="productInfo">Product List</label>
+              <input type="text" class="form-control" id="productInfo" [(ngModel)]="productName" placeholder="Product Name">
+          </div>
+            <button type="submit" class="btn btn-primary" (click)="createProductt()">Create</button>
+      </div>
+      <br>
+
+      <!-- Search form -->
+      <div class="active-cyan-3 active-cyan-4 mb-4">
+        <input class="form-control" type="text" placeholder="Search by name" aria-label="Search" [(ngModel)]="productNameSearch">
+        <br>
+        <button type="submit" class="btn btn-primary" (click)="searchProduct()">Search</button>
+      </div>
+
+      <br>
+      <table class="table">
+          <tr>
+            <td>Name</td>
+            <td>Created By</td>
+            <td>Count</td>
+
+          </tr>
+          <tr *ngFor="let product of products">
+            <a routerLink="/products/{{product.id}}/"><td>{{product.name}}</td></a> 
+            <td>{{product.created_by.username}}</td>
+          </tr>
+      </table>
+    </div>
+    </ng-container>
+</app-base>
